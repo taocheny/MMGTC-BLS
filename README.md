@@ -17,11 +17,11 @@ Dongrui Wu (Fellow, IEEE),
 School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, 
 Email: drwu@hust.edu.cn; 
 
-Lijie Wang (Corresponding Author),
+Lijie Wang,
 School of Automation, Qingdao University,
 Email: lijiewang1@gmail.com
 
-Wei Li, 
+Wei Li (Corresponding Author), 
 School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, 
 Email: liwei0828@mail.hust.edu.cn.
 # Condition and terms to use any sources of this project
